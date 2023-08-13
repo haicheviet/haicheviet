@@ -5,5 +5,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://ossrank.com/c/99542)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haicheviet&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haicheviet&theme=nord" />
 </p>
