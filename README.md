@@ -2,7 +2,7 @@
 
 [![Blogger](https://badgen.net/badge/my/blog/green?icon=awesome)](https://haicheviet.com/)
 [![wakatime](https://wakatime.com/badge/user/595b62ce-564d-4567-a175-5cbca44af72e.svg)](https://wakatime.com/@595b62ce-564d-4567-a175-5cbca44af72e)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://ossrank.com/c/99542)
+[![Open Source Lover](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://ossrank.com/c/99542)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=haicheviet&theme=nord" />
